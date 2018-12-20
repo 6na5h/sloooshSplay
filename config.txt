@@ -1,6 +1,6 @@
-﻿token=NTAzNTY3MDQ0OTExMDM4NDY1.Dt2kIA.Ggw5CgGEexgJ9ykEXuVo3iqlX94 
-owner=398518643203506176 
-prefix= 1
-game= 1play | By : - iMr.Mohamed.♕.
+token=NTI1MzU3MjI3ODg4ODY5Mzk2.Dv1cpw.w-AhwQVMRRhm-wPVxAoBGIHv118
+owner=435239093182398480
+prefix= S
+game= Splay | By : - iMr.Mohamed.♕.
 stayinchannel=true
 songinstatus=true 
