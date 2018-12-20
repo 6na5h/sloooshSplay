@@ -1,0 +1,6 @@
+﻿token=NTAzNTY3MDQ0OTExMDM4NDY1.Dt2kIA.Ggw5CgGEexgJ9ykEXuVo3iqlX94 
+owner=398518643203506176 
+prefix= 1
+game= 1play | By : - iMr.Mohamed.♕.
+stayinchannel=true
+songinstatus=true 
